@@ -1,0 +1,10 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# aim target
+node_modules
+*.ipynb
+*.zip
+/.ipynb_checkpoints
